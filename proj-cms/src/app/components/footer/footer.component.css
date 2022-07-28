@@ -1,0 +1,14 @@
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(76, 167, 216);
+}
+
+.footer2 {
+    text-align: center;
+}
+
