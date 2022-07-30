@@ -9,17 +9,13 @@ import { environment } from 'src/environments/environment';
 })
 export class ServicosService {
 
+  
    
-  private readonly API = `${environment.API}servicos`;
+  
 
   constructor(private http: HttpClient) { }
 
-  list() {
-    return this.http.get<Servico[]>(this.API)
-    .pipe(
-      // delay(2000),
-      tap(console.log));
-  }
+  
 
   getTiposServicos(){
     return ['Emergenciais','Comerciais','Hora Extra'];

@@ -34,6 +34,8 @@ import { MatButtonModule } from '@angular/material/button';
 import {MatDatepickerModule} from '@angular/material/datepicker';
 import { MatNativeDateModule } from '@angular/material/core';
 import { LocalDateTimePipe } from './components/pipe/local-date-time.pipe';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 registerLocaleData(localePt);
 
@@ -74,7 +76,8 @@ registerLocaleData(localePt);
     MatDatepickerModule,
     MatDialogModule,
     MatIconModule,
-    MatNativeDateModule
+    MatNativeDateModule,
+
   ],
   providers: [{
     provide: LOCALE_ID,

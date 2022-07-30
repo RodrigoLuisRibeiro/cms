@@ -20,7 +20,7 @@ export class ServicosComponent implements OnInit {
 
   ngOnInit() {
     
-    this.servicos$ = this.service.list();
+
   }
 
 }
