@@ -1,0 +1,49 @@
+{
+  "servicos": [
+    {
+      "name": "Rodrigo",
+      "tipo": "Elétricos",
+      "preco": "577",
+      "observacao": "5 tomadas, 1 luminária",
+      "date": "05-07-2022 h 10:38",
+      "time": "10:38",
+      "id": 1
+    },
+    {
+      "name": "Alfredo",
+      "tipo": "Elétricos",
+      "preco": "270",
+      "observacao": "2 chuveiros,  1 ar-condicionado",
+      "date": "06-07-2022 h 14:40",
+      "time": "14:40",
+      "id": 2
+    },
+    {
+      "name": "Lílian",
+      "tipo": "Informática",
+      "preco": "320",
+      "observacao": "Configurações Rede Mesh",
+      "date": "07-07-2022 h 10:40",
+      "time": "10:40",
+      "id": 3
+    },
+    {
+      "name": "João Paulo",
+      "tipo": "Informática",
+      "preco": "170",
+      "observacao": "SSD para jogos",
+      "date": "11-07-2022 h 15:30",
+      "time": "15:30",
+      "id": 4
+    },
+    {
+      "name": "Matheus",
+      "tipo": "Elétricos",
+      "preco": "477",
+      "observacao": "Luz de Led",
+      "date": "13-07-2022 h 10:00",
+      "time": "10:00",
+      "id": 5
+    }
+  ]
+}
