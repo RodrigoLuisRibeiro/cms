@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1659235068936,
-  "index": "/index.html",
+  "timestamp": 1659271005599,
+  "index": "/proj-cms/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,12 +11,12 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.19603496f2da0825.js",
-        "/polyfills.12f69c48c0c2dcf3.js",
-        "/runtime.a8dd244f867a1912.js",
-        "/styles.22d2bb30b988850f.css"
+        "/proj-cms/favicon.ico",
+        "/proj-cms/index.html",
+        "/proj-cms/main.19603496f2da0825.js",
+        "/proj-cms/polyfills.12f69c48c0c2dcf3.js",
+        "/proj-cms/runtime.a8dd244f867a1912.js",
+        "/proj-cms/styles.22d2bb30b988850f.css"
       ],
       "patterns": []
     },
@@ -28,34 +28,34 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/proj-cms/assets/icons/icon-128x128.png",
+        "/proj-cms/assets/icons/icon-144x144.png",
+        "/proj-cms/assets/icons/icon-152x152.png",
+        "/proj-cms/assets/icons/icon-192x192.png",
+        "/proj-cms/assets/icons/icon-384x384.png",
+        "/proj-cms/assets/icons/icon-512x512.png",
+        "/proj-cms/assets/icons/icon-72x72.png",
+        "/proj-cms/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "4881eb2bcc23529d00a1629ebdaf23d398f0f7cc",
-    "/main.19603496f2da0825.js": "46d9b29a8ec80af7a603881da6f9beb9ea16a57d",
-    "/polyfills.12f69c48c0c2dcf3.js": "d878c34deba09a5187e60e6b16f69912eedc0f62",
-    "/runtime.a8dd244f867a1912.js": "994501460d16fd27359151f24a2fa5405c52f8ad",
-    "/styles.22d2bb30b988850f.css": "b9ef4bed26b153bc0645e119527961c1df3b54a2"
+    "/proj-cms/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/proj-cms/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/proj-cms/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/proj-cms/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/proj-cms/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/proj-cms/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/proj-cms/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/proj-cms/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/proj-cms/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/proj-cms/index.html": "bd2db6976bffac9578c00311567375d10185946c",
+    "/proj-cms/main.19603496f2da0825.js": "46d9b29a8ec80af7a603881da6f9beb9ea16a57d",
+    "/proj-cms/polyfills.12f69c48c0c2dcf3.js": "d878c34deba09a5187e60e6b16f69912eedc0f62",
+    "/proj-cms/runtime.a8dd244f867a1912.js": "994501460d16fd27359151f24a2fa5405c52f8ad",
+    "/proj-cms/styles.22d2bb30b988850f.css": "b9ef4bed26b153bc0645e119527961c1df3b54a2"
   },
   "navigationUrls": [
     {
