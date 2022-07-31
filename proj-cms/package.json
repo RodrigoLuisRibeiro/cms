@@ -4,7 +4,9 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href=/proj-cms/",
+    "build": "ng build --base-href https://rodrigoluisribeiro.github.io/cms/",
+    "test:headless": "ng test --watch=false --browsers=ChromeHeadless",
+    "githubpage": "ng build --outputPath=docs",
     "ghpages": "angular-cli-ghpages --dir=dist/proj-cms",
     "deploy": "npm run build & npm run ghpages",
     "watch": "ng build --watch --configuration development",
